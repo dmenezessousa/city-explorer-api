@@ -1,6 +1,7 @@
 ## Process
 
 ![Process](WireframeDiagram.png)
+![lab08](lab08diagram.png)
 
 # city-explorer-api
 
@@ -62,5 +63,29 @@ Start time: 8:30pm EST
 Finish time: 9:00pm EST
 
 Actual time needed to complete: 30 minutes
+
+===========================================================================
+
+Name of feature: Weather (live).
+
+Estimate of time needed to complete: 20 minutes
+
+Start time: 5:30pm EST
+
+Finish time: 6:00pm EST
+
+Actual time needed to complete: 30 minutes
+
+===========================================================================
+
+Name of feature: Movies.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:00pm EST
+
+Finish time: 7:00pm EST
+
+Actual time needed to complete: 1 hour
 
 ===========================================================================
