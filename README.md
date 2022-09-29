@@ -89,3 +89,15 @@ Finish time: 7:00pm EST
 Actual time needed to complete: 1 hour
 
 ===========================================================================
+
+Name of feature: Refactor modularize.
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 5:00pm EST
+
+Finish time: 5:20pm EST
+
+Actual time needed to complete: 20 minutes
+
+===========================================================================
