@@ -1,7 +1,11 @@
 ## Process
 
+### Lab7 WRRC process
 ![Process](WireframeDiagram.png)
+### Lab8 WRRC process
 ![lab08](lab08diagram.png)
+### Lab10 WRRC process
+![lab10](lab10.png)
 
 # city-explorer-api
 
@@ -99,5 +103,17 @@ Start time: 5:00pm EST
 Finish time: 5:20pm EST
 
 Actual time needed to complete: 20 minutes
+
+===========================================================================
+
+Name of feature: Cache.
+
+Estimate of time needed to complete: 1 minutes
+
+Start time: 5:00pm EST
+
+Finish time: 6:20pm EST
+
+Actual time needed to complete: 1 hour 20 minutes
 
 ===========================================================================
